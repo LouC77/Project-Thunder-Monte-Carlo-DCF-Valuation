@@ -48,15 +48,3 @@ By transitioning from a single-point estimate to a full **Enterprise Value (EV) 
   * **PV of Terminal Value**: $354.4M (~68.7%)
 
 ---
-
-## Project Structure
-
-```text
-Project-Thunder-MonteCarlo-DCF/
-│
-├── assets/
-│   └── ev_distribution.png       # Exported high-resolution Matplotlib chart
-│
-├── main.py                        # Core Monte Carlo simulation & plotting script
-├── requirements.txt               # Dependencies (numpy, pandas, matplotlib)
-└── README.md                      # Project documentation and background
