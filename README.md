@@ -30,7 +30,8 @@ By transitioning from a single-point estimate to a full **Enterprise Value (EV) 
 
 ## Valuation Results & Simulation Output
 
-![Project Thunder Valuation Distribution](assets/ev_distribution.png)
+![Uploading image.png…]()
+
 
 ### Key Metrics Summary (USD in Millions)
 
