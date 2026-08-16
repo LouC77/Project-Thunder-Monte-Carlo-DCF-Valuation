@@ -30,7 +30,8 @@ By transitioning from a single-point estimate to a full **Enterprise Value (EV) 
 
 ## Valuation Results & Simulation Output
 
-![Uploading image.png…]()
+<img width="1100" height="589" alt="image" src="https://github.com/user-attachments/assets/73913529-aaa0-49ff-91c4-882bb07e0428" />
+
 
 
 ### Key Metrics Summary (USD in Millions)
